@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "omegaalfa\\tasks\\": "src/"
+            "Omegaalfa\\Tasks\\": "src/"
         }
     },
     "autoload-dev": {
