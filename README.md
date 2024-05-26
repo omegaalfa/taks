@@ -13,11 +13,11 @@ You can install Task via Composer. Run the following command in your terminal:
 composer require your-vendor/task
 ```
 
-# Pré-requisitos
+# Prerequisites
 
-PHP 8.1 ou superior
+PHP 8.1 or higher
 
-# Exemplos
+# Examples
 
 ```php
 
