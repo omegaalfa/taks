@@ -10,7 +10,7 @@ Task is a simple asynchronous task manager written in PHP. It allows you to exec
 You can install Task via Composer. Run the following command in your terminal:
 
 ```bash
-composer require your-vendor/task
+composer require omegaalfa/tasks:dev-main
 ```
 
 # Prerequisites
