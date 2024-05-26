@@ -20,7 +20,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "omegaalfa\\tasks\\tests\\": "tests/"
+            "Omegaalfa\\Tasks\\Tests\\": "tests/"
         }
     },
     "minimum-stability": "dev",
