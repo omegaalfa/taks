@@ -3,6 +3,7 @@
     "description": "A lightweight asynchronous task manager for PHP applications",
     "type": "library",
     "license": "MIT",
+    "keywords": ["tasks", "asynchronous", "Fibers", "Timer", "Fiber", "php8.1"],
     "authors": [
         {
             "name": "wrt",
