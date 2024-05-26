@@ -45,11 +45,11 @@ Task::run();
 
 ```
 
-## Contribuição
+## Contribution
 
-Se desejar contribuir com melhorias ou correções, fique à vontade para criar uma pull request ou abrir uma issue no repositório.
+If you would like to contribute improvements or corrections, feel free to create a pull request or open an issue in the repository.
 
-## Licença
+## License
 
-Este projeto está licenciado sob a Licença MIT.
+This project is licensed under the MIT License.
 
