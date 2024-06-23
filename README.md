@@ -1,4 +1,4 @@
-# taks
+# Taks
 Task Manager is a lightweight asynchronous task manager for PHP
 
 # Task - Asynchronous Task Manager
